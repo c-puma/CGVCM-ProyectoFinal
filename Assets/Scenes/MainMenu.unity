@@ -2626,14 +2626,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   listaDePlanetas:
-  - nombre: Merucrio
+  - nombre: Mercurio
     informacionEducativa: "Recibe su nombre del mensajero de los dioses romanos (Hermes)
       porque se mueve m\xE1s r\xE1pido que nadie por el cielo. Es un planeta de extremos:
       se quema de d\xEDa y se congela de noche. Curiosamente, tiene \"arrugas\" gigantes
       en su superficie, como una pasa seca, lo que indica que el planeta se est\xE1
       encogiendo lentamente con el tiempo."
     imagenDelPlaneta: {fileID: 21300000, guid: cb189738a369441bbbcbaf4a46e5403c, type: 3}
-    nombreDeLaEscena: Nivel0
+    nombreDeLaEscena: Mercury
   - nombre: Venus
     informacionEducativa: "Llamado as\xED por la diosa de la belleza debido a su
       brillo intenso en el cielo nocturno; a menudo se le conoce como el \"Lucero
@@ -2642,7 +2642,7 @@ MonoBehaviour:
       este. Aunque es \"gemelo\" de la Tierra en tama\xF1o, su belleza es una trampa
       mortal de nubes t\xF3xicas."
     imagenDelPlaneta: {fileID: 21300000, guid: f0c0a0eaf6b414093837f6bd28743fcd, type: 3}
-    nombreDeLaEscena: Nivel1
+    nombreDeLaEscena: Venus
   - nombre: Tierra
     informacionEducativa: "Nuestro hogar, conocido como el \"Punto Azul P\xE1lido\",
       es el \xFAnico lugar del universo donde sabemos con certeza que existe vida.

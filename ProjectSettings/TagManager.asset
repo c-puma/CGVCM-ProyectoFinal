@@ -6,6 +6,7 @@ TagManager:
   tags:
   - ColisionSegura
   - ColisionPeligrosa
+  - LimiteMundo
   layers:
   - Default
   - TransparentFX

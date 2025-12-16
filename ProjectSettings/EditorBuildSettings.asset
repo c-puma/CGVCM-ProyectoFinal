@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Nivel01.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Mercury.unity
+    guid: fb4b9a25b4d1b114ea4b27cc1052cc1d
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8f158db29ee77ba48b14f5e90b3cf5c2
+  - enabled: 1
+    path: Assets/Scenes/Venus.unity
+    guid: 2f2aeeec6c48d3b4b9e023816b7e8d27
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
