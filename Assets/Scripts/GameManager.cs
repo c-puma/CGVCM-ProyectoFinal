@@ -125,7 +125,6 @@ public class GameManager : MonoBehaviour
     }
 
     // --- LÓGICA DE MONEDAS ---
-
     public void SumarMoneda()
     {
         monedasActuales++;
@@ -181,7 +180,6 @@ public class GameManager : MonoBehaviour
     }
 
     // --- ACTUALIZAR PANTALLA ---
-
     void ActualizarHUD()
     {
         textoMonedas.text = "Monedas: " + monedasActuales + " / " + monedasTotalesEnMapa;

@@ -15,7 +15,7 @@ public class Moneda : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         // 2. Detectar al Astronauta
-        // IMPORTANTE: Tu astronauta debe tener el Tag "Player"
+        // IMPORTANTE: astronauta debe tener el Tag "Player"
         if (other.CompareTag("Player"))
         {
             // 3. Avisar al GameManager
